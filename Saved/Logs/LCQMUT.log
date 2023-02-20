@@ -1983,3 +1983,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.20-14.14.34:028][839]LogFileHelpers: Loading map 'NewMap' took 0.061
 [2023.02.20-14.21.53:489][586]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
 [2023.02.20-14.22.32:340][702]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2023.02.20-14.24.11:187][999]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2023.02.20-14.24.11:519][  0]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2023.02.20-14.24.11:851][  1]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2023.02.20-14.24.30:040][ 55]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Untitled does not exist, will not scan.
+[2023.02.20-14.24.34:242][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.20-14.24.34:243][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.008
